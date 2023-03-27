@@ -4,3 +4,4 @@ fix
 my-feature update
 edit from github, you should update you local repos.
 from home
+remote from upstream
