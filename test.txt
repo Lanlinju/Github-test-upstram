@@ -3,3 +3,5 @@
 fix
 my-feature update
 edit from github, you should update you local repos.
+test again for file from home-feature.
+and you should resolve the conflicts.
